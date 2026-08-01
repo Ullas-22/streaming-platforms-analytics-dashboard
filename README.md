@@ -17,7 +17,7 @@ An end-to-end interactive dashboard comparing catalog trends, audience ratings, 
 - Netflix - https://www.kaggle.com/datasets/shivamb/netflix-shows
 - Amazon Prime videos - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 - Disney+ Hotstar - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
-- Note : These datasets contains details upto the year 2021 
+- Note : These datasets contain details upto the year 2021 
 
 ## 📊 Dashboard Features
 1. **Main Overview Page:** Cross-platform comparison by genre, release year, runtime, and country.
