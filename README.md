@@ -1,3 +1,7 @@
+
+
+
+
 # 🎬 Streaming Platforms Interactive Analytics Dashboard
 
 An end-to-end interactive dashboard comparing catalog trends, audience ratings, genres, and geographic content distribution across **Netflix**, **Amazon Prime Video**, and **Disney+ Hotstar**.
@@ -19,6 +23,8 @@ An end-to-end interactive dashboard comparing catalog trends, audience ratings, 
 2. **Netflix Deep Dive:** Catalog expansion pace, TV show seasonality, and audience age ratings.
 3. **Prime Video Deep Dive:** Analysis across 500+ genres and 5,000+ directors.
 4. **Disney+ Hotstar Deep Dive:** Content velocity index and audience maturity distribution.
+
+https://github.com/user-attachments/assets/b738e5ea-6fe8-4a1a-9394-7d4b13d1fba2
 
 ## 📁 Repository Structure
 - `platform.pbix` - Interactive dashboard file
