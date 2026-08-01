@@ -8,7 +8,7 @@ An end-to-end interactive dashboard comparing catalog trends, audience ratings, 
 - **Key Metrics:** Catalog growth, audience ratings, content velocity, movie runtimes, single vs. multi-season show trends.
 
 ## 🛠️ Tools & Technologies
-- **Business Intelligence Tool:** Power BI / Tableau / Excel
+- **Business Intelligence Tool:** Power BI / Excel
 - **Data Source:** Streaming platform datasets
 
 ## 📊 Dashboard Features
