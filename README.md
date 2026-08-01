@@ -18,6 +18,6 @@ An end-to-end interactive dashboard comparing catalog trends, audience ratings, 
 4. **Disney+ Hotstar Deep Dive:** Content velocity index and audience maturity distribution.
 
 ## 📁 Repository Structure
-- `Dashboard.pbix` - Interactive dashboard file
-- `data/` - Cleaned datasets used for analysis
-- `screenshots/` - Preview images of dashboard tabs
+- `platform.pbix` - Interactive dashboard file
+- `DA1/` - Cleaned datasets used for analysis
+- `Videos of dashboard/` - Preview video of dashboard tabs
